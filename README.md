@@ -5,10 +5,10 @@ Bem-vindo ao repositório do Lavanda. Este projeto foi criado para oferecer uma 
 ## Instalação
 
 1.  **Clone este repositório:**
-    `git clone https://github.com/seu-usuario/lavanda-beauty-react.git` 
+    `git clone https://github.com/lhaysizidoro/websitelavanda.git` 
     
 2.  **Acesse o diretório do projeto:**
-    `cd lavanda-beauty-react` 
+    `cd websitelavanda` 
     
 3.  **Instale as dependências:**
     `npm install`     
@@ -30,9 +30,9 @@ Agora, acesse o site em http://localhost:3000 no seu navegador.
 
 ## Tecnologias Utilizadas
 
--   React
--  React Router
--  React Hooks
--   CSS
+- React
+- React Router
+- React Hooks
+- CSS
 
 Obrigada por acompanhar, espero que tenha gostado do meu repositório! 🌸✨
