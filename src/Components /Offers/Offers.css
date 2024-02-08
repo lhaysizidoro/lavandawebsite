@@ -1,0 +1,26 @@
+.offers{
+    margin-top: 250px;
+}
+
+#offer button{
+
+    width: 200px;
+    font-size: 28px;
+    background-color: #9F6D5A;
+    color: #ffffff;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px; 
+    transition: background-color 0.3s ease;
+    border: 1px solid #9F6D5A;
+    }
+    
+#offer button:hover {
+        background-color: gray;
+        color: #ffffff;
+}
+
+
+
+
+
